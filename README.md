@@ -1,10 +1,12 @@
-#Course Management API
+🖐💻
+
+👉Course Management API👈
 A Node.js REST API for managing courses and orders with robust security features.
 This API allows users to perform CRUD operations on courses and orders while implementing essential security measures.
 Features
 
-#Course management (CRUD operations)
-Order processing
+👉Course management (CRUD operations)👈
+⚫-Order processing
 Security implementation (XSS protection, Rate limiting, Helmet)
 Input validation
 Error handling
